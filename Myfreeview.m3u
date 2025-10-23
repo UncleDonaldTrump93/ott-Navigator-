@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTVLCOPT:http-user-agent=com.genuine.leone
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tv2" ch-number="102" tvg-name="TV2 HD" group-title="6TV Plus | Myfreeview" group-logo="https://i.postimg.cc/66c4fS6D/Polish-20250705-002912292.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", TV2 (Astro Feed)
